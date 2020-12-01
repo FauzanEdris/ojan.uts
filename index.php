@@ -48,9 +48,9 @@
 				}
 			}
 		</script>
+		<script data-ad-client="ca-pub-9059113910660112" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	</head>
 	<body onLoad="imgAuto()">
-		<script data-ad-client="ca-pub-9059113910660112" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<div id="bg">
 			<div id="menu">
 				<div class="kiriMenu"><img src="image/logo.png" width="100%"/></div>
